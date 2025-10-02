@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=600&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Abenezer+Mesfin!;" />
 </h1>
 
-<p align="center"> A 5th-year electrical and computer engineering student at AASTU. with a certification from the google developer student club (gdsc) and my recent selection for the prestigious A2SV program, I’m on a mission to grow as a developer while making meaningful contributions to impactful projects.</p>
+<p align="center"> A passionate frontend and mobile app developer, and an electrical and computer engineering student at AASTU. With a certification from the Google Developer Student Club (GDSC) and my recent selection for the prestigious A2SV program, I’m on a mission to grow as a developer while making meaningful contributions to impactful projects.</p>
 
 ### 🚀 A Frontend + Mobile Developer passionate about building functional, scalable, and user-centric applications.
 
